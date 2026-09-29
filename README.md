@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Secure Login Form (HW2-B, Part 2)
 
 A small login form inspired by the [OWASP Juice Shop](https://owasp-juice.shop) login page, built to
