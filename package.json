@@ -1,0 +1,12 @@
+{
+  "name": "juice-shop-secure-login-form",
+  "version": "1.0.0",
+  "description": "A simple HTML/JS login form (inspired by OWASP Juice Shop) with client-side and server-side validation, built for HW2-B.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
