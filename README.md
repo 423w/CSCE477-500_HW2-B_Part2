@@ -4,6 +4,8 @@ A small login form inspired by the [OWASP Juice Shop](https://owasp-juice.shop) 
 demonstrate both **client-side** and **server-side** input validation as part of a web security
 coursework assignment.
 
+Reference SECURITY.md for specific security features.
+
 ## What this project does
 
 - Renders an email + password login form styled after Juice Shop's login page.
