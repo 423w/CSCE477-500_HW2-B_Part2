@@ -68,6 +68,4 @@ server-side checks fully independent of (not reused from) the client-side code.
 This project is Part 2 of a 3-part assignment analyzing OWASP Juice Shop's security. Part 1 covers
 vulnerabilities identified in Juice Shop itself (SQL injection, XSS, weak credentials) and their
 mitigations; Part 3 documents an attempted SQL injection / XSS attack against this form.
-=======
-# CSCE477-500_HW2-B_Part2
->>>>>>> aebaeefde3cd50f72207d3e40f6f7c4514707d82
+
